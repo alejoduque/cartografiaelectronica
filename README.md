@@ -12,9 +12,7 @@
  |_____|_|\___|\___|\__|_|  \___/|_|  |_|\___\__,_|
 ```
 
-Una exploración de las intersecciones entre cartografía y medios electrónicos.
-
-## Preguntas Frecuentes
+## Exploración entre las intersecciones del código
 
 1. ¿Es una app?
 2. ¿Es útil?
